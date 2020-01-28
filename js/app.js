@@ -1,12 +1,12 @@
 // Your web app's Firebase configuration
   var firebaseConfig = {
-    apiKey: "AIzaSyDNNAkBakPqFYnn4h-1B_RPhjwmgaYWMnE",
-    authDomain: "tinder-dogs-25842.firebaseapp.com",
-    databaseURL: "https://tinder-dogs-25842.firebaseio.com",
-    projectId: "tinder-dogs-25842",
-    storageBucket: "tinder-dogs-25842.appspot.com",
-    messagingSenderId: "900710117497",
-    appId: "1:900710117497:web:f5bebb3434f792826be4a8"
+    apiKey: "",
+    authDomain: "",
+    databaseURL: "",
+    projectId: "",
+    storageBucket: "tinder-dogs-25842.appspot.",
+    messagingSenderId: "",
+    appId: ""
   };
 // Initialize Firebase
 firebase.initializeApp(firebaseConfig);
